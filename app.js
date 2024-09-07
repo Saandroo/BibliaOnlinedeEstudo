@@ -28,7 +28,7 @@ function pesquisar() {
       if (titulo.includes(campoPesquisa) || palavra.includes(campoPesquisa) || tags.includes(campoPesquisa)){
         resultados += `
         <div class="item-resultado">
-          <h2>${dado.titulo} ${dado.capitulo}:${dado.versiculo}</h2>
+          <h2>${dado.titulo} ${dado.capitulo}: ${dado.versiculo}</h2>
           <p class="descricao-meta">
             <b>${dado.palavra}</b>
           </p>
