@@ -108,6 +108,43 @@ let dados = [
       tags: "josue js josue1,9 josue1:9 js1,9 js1:9 1:9 1,9",
     },
 
+    {
+      titulo: "Juízes",
+      capitulo: 6,
+      versiculo: 14,
+      palavra: "Vai nesta tua força e livrarás Israel das mãos dos midianitas. Não sou eu quem te envio?",
+      link: "https://bibliotecadopregador.com.br/devocional-vai-nesta-tua-forca-gideao-juizes-6-14/",
+      tags: "juizes jz jz6,14 jz6:14 juizes6:14 6:14 6,14 juizes6,14",
+    },
+
+    {
+      titulo: "Rute",
+      capitulo: 1,
+      versiculo: 16,
+      palavra: "E Rute respondeu: Não me rogues que te deixe, e que me aparte de ti: porque de onde quer que tu fores, irei eu; e de onde quer que viveres, viverei. Teu povo será meu povo, e teu Deus meu Deus",
+      link: "https://bibliotecadopregador.com.br/o-relacionamento-entre-nora-e-sogra-estudo-de-rute-1-16/",
+      tags: "rute1:16 rute1,16 1:16 1,16 rt rt1,6 rt1:16 rute1",
+    },
+    {
+      itulo: "1 Samuel",
+      capitulo: 17,
+      versiculo: 45,
+      palavra: "E Davi disse ao filisteu: “Você vem contra mim com espada, com lança e com dardo, mas eu vou contra você em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem você desafiou.",
+      link: "https://jesusdiario.com.br/devocional-1-samuel-17-45/",
+      tags: "1samuel 1samuel17,45 1sm 1sm17,45 1sm17:45 17:45 17,45 1samuel17:45 samuel",
+    },
+
+    {
+      titulo: "2 Samuel",
+      capitulo: 12,
+      versiculo: 7,
+      palavra: "Então disse Natã a Davi: Tu és aquele homem. Assim disse o SENHOR, Deus de Israel: Eu te ungi por rei sobre Israel, e te livre da mão de Saul",
+      link: "https://www.apologeta.com.br/2-samuel-12-7/",
+      tags: "2samuel 2samuel12,7 2sm 2sm12,7 sm12:7  samuel 2samuel12:7",
+    },
+
+
+
 
 ];
 
