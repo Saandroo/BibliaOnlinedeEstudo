@@ -107,9 +107,7 @@ let dados = [
       link: "https://jesuseabiblia.com/biblia-de-estudo-online/josue-1-estudo/",
       tags: "josue js josue1,9 josue1:9 js1,9 js1:9 1:9 1,9",
     },
-    {
 
-    },
 
 ];
 
