@@ -69,7 +69,7 @@ let dados = [
       versiculo: 14,
       palavra: "E Deus disse a Moisés: EU SOU O QUE SOU. E disse mais: Assim dirás aos filhos de Israel: EU SOU me enviou a vós.",
       link: "https://www.apologeta.com.br/exodo-3-14/",
-       tags: " exodo exodo3:14 exodo3,14 3:14 3,14 ex",
+      tags: " exodo exodo3:14 exodo3,14 3:14 3,14 ex",
     },
 
     {
@@ -126,7 +126,7 @@ let dados = [
       tags: "rute1:16 rute1,16 1:16 1,16 rt rt1,6 rt1:16 rute1",
     },
     {
-      itulo: "1 Samuel",
+      titulo: "1 Samuel",
       capitulo: 17,
       versiculo: 45,
       palavra: "E Davi disse ao filisteu: “Você vem contra mim com espada, com lança e com dardo, mas eu vou contra você em nome do Senhor dos Exércitos, o Deus dos exércitos de Israel, a quem você desafiou.",
